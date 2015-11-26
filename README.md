@@ -13,7 +13,7 @@ Once installed, click on the Stylish icon and click "Manage installed styles."
 
 First, add the contents of `stars-not-hearts-twitter.css` into the textbox, then change the configuration so that it applies to `URLs on the domain: twitter.com`.
 
-Then finally, create a new style, and add the styles and configrations, this time for `stars-not-hearts-tweetdeck.css`.
+If you want to change the icons for TweetDeck as well, create a new style and do the same thing, this time for `stars-not-hearts-tweetdeck.css` and domain `tweetdeck.twitter.com`.
 
 Save your changes, and the star should be back!
 
