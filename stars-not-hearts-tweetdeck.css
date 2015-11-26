@@ -1,0 +1,6 @@
+.hearty .icon-favorite:before {
+  content: "\f007"
+}
+.hearty .is-favorite .icon-favorite-toggle {
+  color: #fab41e;
+}

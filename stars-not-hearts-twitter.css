@@ -1,0 +1,20 @@
+.HeartAnimationContainer {
+  visibility: hidden;
+  width: 20px;
+  height: 18px;
+}
+.HeartAnimationContainer:after {
+  display: block;
+  content: '★';
+  visibility: visible;
+  position: absolute;
+  font-size: 140%;
+}
+.ProfileTweet-action--favorite .ProfileTweet-actionButton:hover,
+.ProfileTweet-action--favorite .ProfileTweet-actionButton:focus,
+.ProfileTweet-action--favorite .ProfileTweet-actionCount:hover,
+.ProfileTweet-action--favorite .ProfileTweet-actionCount:focus,
+.favorited .ProfileTweet-action--favorite .Icon--heart,
+.favorited .ProfileTweet-action--favorite .ProfileTweet-actionButtonUndo {
+  color: #ffac33;
+}
