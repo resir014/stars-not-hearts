@@ -1,3 +1,5 @@
+/* Hearts on Tweets */
+
 .HeartAnimationContainer {
   visibility: hidden;
   width: 20px;
@@ -17,4 +19,15 @@
 .favorited .ProfileTweet-action--favorite .Icon--heart,
 .favorited .ProfileTweet-action--favorite .ProfileTweet-actionButtonUndo {
   color: #ffac33;
+}
+
+/* Hearts on Notifications page */
+
+.Icon--colorHeart,
+.Icon--circleActiveHeart,
+.Icon--heartBadge {
+  color: #ffac33;
+}
+.Icon--heartBadge:before {
+  content: "\f001";
 }
