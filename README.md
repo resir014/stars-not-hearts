@@ -2,7 +2,7 @@
 
 > Custom CSS to replace Twitter's heart icons with stars.
 
-## Usage
+## How to install
 
 First, you will need to download Stylish.
 
@@ -11,11 +11,27 @@ First, you will need to download Stylish.
 
 Once installed, click on the Stylish icon and click "Manage installed styles."
 
-First, add the contents of `stars-not-hearts-twitter.css` into the textbox, then change the configuration so that it applies to `URLs on the domain: twitter.com`.
+<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-1.png">
+  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-1.png" alt="howto-1" />
+</a>
 
-If you want to change the icons for TweetDeck as well, create a new style and do the same thing, this time for `stars-not-hearts-tweetdeck.css` and domain `tweetdeck.twitter.com`.
+Then click on "Add New Style" to create a new custom style.
+
+<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-2.png">
+  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-2.png" alt="howto-2" />
+</a>
+
+On the "Add Style" screen, paste the stylesheets on `stars-not-hearts-twitter.css` into the textbox at (1). Then change the configuration at the bottom to the settings shown at (2). Then name your custom styles as you desire at (3).
+
+<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-3.png">
+  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-3.png" alt="howto-3" />
+</a>
 
 Save your changes, and the star should be back!
+
+### TweetDeck
+
+For TweetDeck, do the same, but make sure you used the stylesheets on `stars-not-hearts-tweetdeck.css` and the domain is set to `tweetdeck.twitter.com`.
 
 ## License
 
