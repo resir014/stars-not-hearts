@@ -11,20 +11,20 @@ First, you will need to download Stylish.
 
 Once installed, click on the Stylish icon and click "Manage installed styles."
 
-<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-1.png">
-  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-1.png" alt="howto-1" />
+<a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-1.png">
+  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-1.png" alt="howto-1" />
 </a>
 
 Then click on "Add New Style" to create a new custom style.
 
-<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-2.png">
-  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-2.png" alt="howto-2" />
+<a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-2.png">
+  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-2.png" alt="howto-2" />
 </a>
 
 On the "Add Style" screen, paste the stylesheets on `stars-not-hearts-twitter.css` into the textbox at (1). Then change the configuration at the bottom to the settings shown at (2). Then name your custom styles as you desire at (3).
 
-<a href="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-3.png">
-  <img src="https://cdn.rawgit.com/resir014/stars-not-hearts/master/images/howto-3.png" alt="howto-3" />
+<a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-3.png">
+  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-3.png" alt="howto-3" />
 </a>
 
 Save your changes, and the star should be back!
