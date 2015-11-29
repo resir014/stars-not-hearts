@@ -7,8 +7,6 @@
   /* Hearts on Tweets */
   .HeartAnimationContainer {
     visibility: hidden;
-    width: 16px;
-    height: 16px;
   }
   .HeartAnimationContainer:after {
     display: block;
@@ -16,7 +14,7 @@
     content: '\f147';
     visibility: visible;
     position: absolute;
-    /* font-size: 140%; */
+    line-height: 1.1;
   }
 
   .ProfileTweet-action--favorite .ProfileTweet-actionButton:hover,
