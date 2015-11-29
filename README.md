@@ -3,7 +3,7 @@
 > Custom CSS to replace Twitter's heart icons with stars.
 
 <a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png" style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/howto-1.png" />
+  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png" />
 </a>
 
 ## Now available on userstyles.org!
