@@ -2,15 +2,16 @@
 
 .HeartAnimationContainer {
   visibility: hidden;
-  width: 20px;
-  height: 18px;
+  width: 16px;
+  height: 16px;
 }
 .HeartAnimationContainer:after {
   display: block;
-  content: '★';
+  font-family: 'rosettaicons';
+  content: '\f147';
   visibility: visible;
   position: absolute;
-  font-size: 140%;
+  /* font-size: 140%; */
 }
 .ProfileTweet-action--favorite .ProfileTweet-actionButton:hover,
 .ProfileTweet-action--favorite .ProfileTweet-actionButton:focus,
