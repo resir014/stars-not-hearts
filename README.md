@@ -1,10 +1,12 @@
 # stars-not-hearts
 
-> Custom CSS to replace Twitter's heart icons with stars.
+> Custom CSS to replace the new heart icons on Twitter and TweetDeck to stars.
 
-<a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png" style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png" />
-</a>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png">
+    <img src="https://raw.githubusercontent.com/resir014/stars-not-hearts/master/images/demo-1.png" />
+  </a>
+</p>
 
 ## Now available on userstyles.org!
 
